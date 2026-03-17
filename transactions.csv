@@ -1,0 +1,6 @@
+Transaction_ID,Customer_ID,Amount,Time,Location,Device,Fraud_Label
+1001,C001,1200,09,Delhi,Mobile,0
+1002,C002,50000,02,Mumbai,Web,1
+1003,C003,250,14,Bangalore,Mobile,0
+1004,C004,150000,01,Hyderabad,Web,1
+1005,C005,800,18,Delhi,Mobile,0
